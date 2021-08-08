@@ -19,7 +19,7 @@ For anyone who wants to provide translations please submit them to https://crowd
 
 ## TODO
 - [ ] Clean up the ViewModel and DataModel code
-- [ ] Migrate to Jetpack Compose when it's officially released
+- [ ] Migrate to Jetpack Compose when it's officially released.
 
 ## Building 
 
